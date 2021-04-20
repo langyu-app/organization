@@ -48,23 +48,23 @@ wherever possible.
 
 Highlights and colored backgrounds should use the following two colors:
 
-* `#46c2bd`: <svg width="1rem" height="1rem"><rect x="0" y="0" width="1rem" height="1rem" rx=2 ry=2 fill="#46c2bd" /></svg>
-* `#043962`: <svg width="1rem" height="1rem"><rect x="0" y="0" width="1rem" height="1rem" rx=2 ry=2 fill="#043962" /></svg>
+* `#46c2bd`: ![a cyan color swatch](./colors/46c2bd.svg)
+* `#043962`: ![a dark blue color swatch](./colors/043962.svg)
 
 ### "White" Backgrounds/Text
 
 "White" backgrounds and text should use the color: `#e2e9ee`
-<svg width="1rem" height="1rem"><rect x="0" y="0" width="1rem" height="1rem" rx=2 ry=2 fill="#e2e9ee" /></svg>.
-White text should only appear on backgrounds consisting of `#043962`
-<svg width="1rem" height="1rem"><rect x="0" y="0" width="1rem" height="1rem" rx=2 ry=2 fill="#043962" /></svg>.
+![an off-white color swatch](./colors/e2e9ee.svg).  White text should only
+appear on backgrounds consisting of `#043962`
+![a dark blue color swatch](./colors/043962.svg).
 
 ### "Black" Text
 
 "Black" backgrounds and text should use the color: `#091e2e`
-<svg width="1rem" height="1rem"><rect x="0" y="0" width="1rem" height="1rem" rx=2 ry=2 fill="#091e2e" /></svg>.
-Black text should only appear on backgrounds consisting of `#e2e9ee`
-<svg width="1rem" height="1rem"><rect x="0" y="0" width="1rem" height="1rem" rx=2 ry=2 fill="#e2e9ee" /></svg>
-or `#46c2bd` <svg width="1rem" height="1rem"><rect x="0" y="0" width="1rem" height="1rem" rx=2 ry=2 fill="#46c2bd" /></svg>.
+![a near-black blue-grey color swatch](./colors/091e2e.svg).  Black text should
+only appear on backgrounds consisting of `#e2e9ee`
+![an off-white color swatch](./colors/e2e9ee.svg) or `#46c2bd`
+![a cyan color swatch](./colors/46c2bd.svg).
 
 ---
 

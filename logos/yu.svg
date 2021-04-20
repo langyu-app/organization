@@ -1,12 +1,14 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 96 96" style="color:#ffffff" width="96" height="96">
-  <g transform="matrix(-0.11707891,0,0,0.11707891,25.736012,70.247346)">
-    <polygon points="0,190 280,-90 -280,-90 " transform="rotate(-135,-177.81532,49.243968)" style="fill:#60b5cc" />
-    <polygon points="0,190 280,-90 -280,-90 " transform="rotate(-45,-577.63456,239.26407)" style="fill:#5a6378" />
-    <polygon points="198,-66 -198,-66 0,132 " transform="matrix(0,-1,-1,0,153.67552,-335.69419)" style="fill:#60b5cc" />
-    <polygon points="130,0 0,130 -130,0 0,-130 " transform="matrix(0.70710678,-0.70710678,-0.70710678,-0.70710678,-84.096121,-190.02008)" style="fill:#7fd13b" />
-    <polygon points="-191,61 69,61 191,-61 -69,-61 " transform="matrix(-0.70710678,-0.70710678,-0.70710678,0.70710678,127.75164,-103.75306)" style="fill:#7fd13b" />
-    <polygon points="-130,-44 0,86 130,-44 " transform="rotate(135,-55.681468,-28.502918)" style="fill:#f0ad00" />
-    <polygon points="130,-44 -130,-44 0,86 " transform="matrix(-0.70710678,-0.70710678,-0.70710678,0.70710678,-115.20882,-370.75538)" style="fill:#f0ad00" />
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" height="128" width="128" viewBox="0 0 128 128">
+  <circle r="64" cy="64" cx="64" fill="#e2e9ee" />
+  <circle r="59.584" cy="64" cx="64" fill="none" stroke="#043962" stroke-width="4.832" />
+  <g transform="matrix(-0.09182645,0,0,0.09182645,51.370023,83.86487)">
+    <polygon fill="#60b5cc" transform="rotate(-135,-177.81532,49.243968)" points="0,190 280,-90 -280,-90 " />
+    <polygon fill="#5a6378" transform="rotate(-45,-577.63456,239.26407)" points="0,190 280,-90 -280,-90 " />
+    <polygon fill="#60b5cc" transform="matrix(0,-1,-1,0,153.67552,-335.69419)" points="198,-66 -198,-66 0,132 " />
+    <polygon fill="#7fd13b" transform="matrix(0.70710678,-0.70710678,-0.70710678,-0.70710678,-84.096121,-190.02008)" points="0,130 -130,0 0,-130 130,0 " />
+    <polygon fill="#7fd13b" transform="matrix(-0.70710678,-0.70710678,-0.70710678,0.70710678,127.75164,-103.75306)" points="69,61 191,-61 -69,-61 -191,61 " />
+    <polygon fill="#f0ad00" transform="rotate(135,-55.681468,-28.502918)" points="-130,-44 0,86 130,-44 " />
+    <polygon fill="#f0ad00" transform="matrix(-0.70710678,-0.70710678,-0.70710678,0.70710678,-115.20882,-370.75538)" points="130,-44 -130,-44 0,86 " />
   </g>
 </svg>

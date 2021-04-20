@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 96 96" width="96" height="96">
   <g transform="matrix(0.09283104,0,0,0.09283104,104.22756,52.413909)">
-    <polygon points="0,190 280,-90 -280,-90 " transform="matrix(-0.25881904,0.96592583,0.96592583,0.25881904,-440.59734,-27.205741)" style="fill:#5a6378" />
-    <polygon points="198,-66 -198,-66 0,132 " transform="matrix(0.25881904,-0.96592583,-0.96592583,-0.25881904,-358.32896,219.93907)" style="fill:#60b5cc" />
-    <polygon points="0,-130 130,0 0,130 -130,0 " transform="matrix(0.25881905,-0.96592582,-0.96592582,-0.25881905,-305.29065,-300.35495)" style="fill:#7fd13b" />
-    <polygon points="69,61 191,-61 -69,-61 -191,61 " transform="matrix(-0.25881904,0.96592583,0.96592583,0.25881904,-1014.4104,267.7895)" style="fill:#7fd13b" />
-    <polygon points="-130,-44 0,86 130,-44 " transform="rotate(105,77.755357,-271.92208)" style="fill:#f0ad00" />
-    <polygon points="-130,-44 0,86 130,-44 " transform="matrix(0.25881904,-0.96592583,-0.96592583,-0.25881904,-242.12778,-128.72825)" style="fill:#f0ad00" />
-    <polygon points="0,190 280,-90 -280,-90 " transform="matrix(0.25881904,-0.96592583,-0.96592583,-0.25881904,-698.73062,134.5215)" style="fill:#60b5cc" />
+    <polygon points="0,190 280,-90 -280,-90 " transform="matrix(-0.25881904,0.96592583,0.96592583,0.25881904,-440.59734,-27.205741)" fill="#5a6378" />
+    <polygon points="198,-66 -198,-66 0,132 " transform="matrix(0.25881904,-0.96592583,-0.96592583,-0.25881904,-358.32896,219.93907)" fill="#60b5cc" />
+    <polygon points="0,-130 130,0 0,130 -130,0 " transform="matrix(0.25881905,-0.96592582,-0.96592582,-0.25881905,-305.29065,-300.35495)" fill="#7fd13b" />
+    <polygon points="69,61 191,-61 -69,-61 -191,61 " transform="matrix(-0.25881904,0.96592583,0.96592583,0.25881904,-1014.4104,267.7895)" fill="#7fd13b" />
+    <polygon points="-130,-44 0,86 130,-44 " transform="rotate(105,77.755357,-271.92208)" fill="#f0ad00" />
+    <polygon points="-130,-44 0,86 130,-44 " transform="matrix(0.25881904,-0.96592583,-0.96592583,-0.25881904,-242.12778,-128.72825)" fill="#f0ad00" />
+    <polygon points="0,190 280,-90 -280,-90 " transform="matrix(0.25881904,-0.96592583,-0.96592583,-0.25881904,-698.73062,134.5215)" fill="#60b5cc" />
   </g>
 </svg>
