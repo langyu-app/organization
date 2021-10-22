@@ -87,7 +87,7 @@ The main logo for `langyu`, used whenever only a single image is appropriate.
 
 ![the langyu logo, a multi-colored tangram depicting a wolf](./Logos/main.svg)
 
-* Color: [SVG](./Logos/main.svg)|[PNG](./Logos/main.png)
+* Color: [SVG](./Logos/main.svg)|[PNG](./Logos/main.png)|[Elm](./Logos/Main.elm)
 * Monochrome: [SVG](./Logos/main-monochrome.svg)
 
 ### Lang (Wolf) Logo
@@ -97,7 +97,7 @@ appropriate.
 
 ![the langyu wolf logo, a multi-colored tangram depicting a wolf](./Logos/lang.svg)
 
-* Color: [SVG](./Logos/lang.svg)|[PNG](./Logos/lang.png)
+* Color: [SVG](./Logos/lang.svg)|[PNG](./Logos/lang.png)|[Elm](./Logos/Lang.elm)
 * Monochrome: [SVG](./Logos/lang-monochrome.svg)
 
 ### Yu (Fish) Logo
@@ -107,5 +107,5 @@ appropriate.
 
 ![the langyu fish logo, a multi-colored tangram depicting a fish](./Logos/yu.svg)
 
-* Color: [SVG](./Logos/yu.svg)|[PNG](./Logos/yu.png)
+* Color: [SVG](./Logos/yu.svg)|[PNG](./Logos/yu.png)|[Elm](./Logos/Yu.elm)
 * Monochrome: [SVG](./Logos/yu-monochrome.svg)
