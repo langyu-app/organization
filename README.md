@@ -5,7 +5,7 @@
   * [Naming Convention](#naming-convention)
   * [Fonts](#fonts)
   * [Colors](#colors)
-    * [CSS](#css)
+    * [Color CSS File](#color-css-file)
     * [Highlights/Colored Backgrounds](#highlightscolored-backgrounds)
     * ["White" Backgrounds/Text](#white-backgroundstext)
     * ["Black" Backgrounds/Text](#black-backgroundstext)
@@ -46,7 +46,7 @@ wherever possible.
 
 ## Colors
 
-### CSS
+### Color CSS File
 
 These colors may be imported from [here](./Colors/_colors.scss).  The associated
 SASS variables are noted below.
@@ -84,10 +84,10 @@ Black text should only appear on backgrounds consisting of `$primary-light`
 
 User feedback should be provided using these four colors:
 
-* `$color-error`: `#b72b27` ![a red color swatch](./Colors/b72b27.svg)
-* `$color-warning`: `#e6b41c` ![a mustard-yellow color swatch](./Colors/e6b41c.svg)
-* `$color-success`: `#22b523` ![a green color swatch](./Colors/22b523.svg)
-* `$color-easy`: `#46c2bd` ![a cyan color swatch](./Colors/46c2bd.svg)
+* `$error`: `#b72b27` ![a red color swatch](./Colors/b72b27.svg)
+* `$warning`: `#e6b41c` ![a mustard-yellow color swatch](./Colors/e6b41c.svg)
+* `$success`: `#22b523` ![a green color swatch](./Colors/22b523.svg)
+* `$easy`: `#46c2bd` ![a cyan color swatch](./Colors/46c2bd.svg)
 
 ---
 
