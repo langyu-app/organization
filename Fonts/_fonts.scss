@@ -1,0 +1,64 @@
+@font-face {
+  font-family: "IBM Plex Sans";
+  font-style: normal;
+  font-weight: 400;
+  src: local(""), url("/organization/Fonts/ibm-plex-sans-v14-latin-regular.woff2") format("woff2"),
+    url("/organization/Fonts/ibm-plex-sans-v14-latin-regular.woff") format("woff");
+}
+@mixin en {
+  font-family: "IBM Plex Sans", sans-serif;
+  font-style: normal;
+  font-weight: 400;
+}
+
+@font-face {
+  font-family: "Noto Serif TC";
+  font-style: normal;
+  font-weight: 400;
+  src: local(""), url("/organization/Fonts/noto-serif-tc-v23-chinese-traditional-regular.woff2") format("woff2"),
+    url("/organization/Fonts/noto-serif-tc-v23-chinese-traditional-regular.woff") format("woff");
+}
+@mixin tc-serif {
+  font-family: "Noto Serif TC", serif;
+  font-style: normal;
+  font-weight: 400;
+}
+
+@font-face {
+  font-family: "Noto Sans TC";
+  font-style: normal;
+  font-weight: 400;
+  src: local(""), url("/organization/Fonts/noto-sans-tc-v26-chinese-traditional-regular.woff2") format("woff2"),
+    url("/organization/Fonts/noto-sans-tc-v26-chinese-traditional-regular.woff") format("woff");
+}
+@mixin tc-sans {
+  font-family: "Noto Sans TC", sans-serif;
+  font-style: normal;
+  font-weight: 400;
+}
+
+@font-face {
+  font-family: "Noto Serif SC";
+  font-style: normal;
+  font-weight: 400;
+  src: local(""), url("/organization/Fonts/noto-serif-sc-v22-chinese-simplified-regular.woff2") format("woff2"),
+    url("/organization/Fonts/noto-serif-sc-v22-chinese-simplified-regular.woff") format("woff");
+}
+@mixin sc-serif {
+  font-family: "Noto Serif SC", serif;
+  font-style: normal;
+  font-weight: 400;
+}
+
+@font-face {
+  font-family: "Noto Sans SC";
+  font-style: normal;
+  font-weight: 400;
+  src: local(""), url("/organization/Fonts/noto-sans-sc-v26-chinese-simplified-regular.woff2") format("woff2"),
+    url("/organization/Fonts/noto-sans-sc-v26-chinese-simplified-regular.woff") format("woff");
+}
+@mixin sc-sans {
+  font-family: "Noto Sans SC", sans-serif;
+  font-style: normal;
+  font-weight: 400;
+}

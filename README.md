@@ -4,6 +4,10 @@
   * [Introduction](#introduction)
   * [Naming Convention](#naming-convention)
   * [Fonts](#fonts)
+    * [Font CSS Mixins](#font-css-mixins)
+    * [English](#english)
+    * [Traditional Chinese](#traditional-chinese)
+    * [Simplified Chinese](#simplified-chinese)
   * [Colors](#colors)
     * [Color CSS File](#color-css-file)
     * [Highlights/Colored Backgrounds](#highlightscolored-backgrounds)
@@ -39,8 +43,24 @@ Markdown as `` `langyu` ``).
 
 ## Fonts
 
-[IBM Plex Sans](https://fonts.google.com/specimen/IBM+Plex+Sans) should be used
-wherever possible.
+### Font CSS Mixins
+
+These colors may be imported from [here](./Fonts/_fonts.scss).  The associated
+SASS mixins are noted below.
+
+### English
+
+* `en` -- [IBM Plex Sans](https://fonts.google.com/specimen/IBM+Plex+Sans)
+
+### Traditional Chinese
+
+* `tc-serif` -- [Noto Serif Traditional Chinese](https://fonts.google.com/noto/specimen/Noto+Serif+TC)
+* `tc-sans` -- [Noto Sans Traditional Chinese](https://fonts.google.com/noto/specimen/Noto+Sans+TC)
+
+### Simplified Chinese
+
+* `sc-serif` -- [Noto Serif Simplified Chinese](https://fonts.google.com/noto/specimen/Noto+Serif+SC)
+* `sc-sans` -- [Noto Sans Simplified Chinese](https://fonts.google.com/noto/specimen/Noto+Sans+SC)
 
 ---
 
