@@ -1,5 +1,12 @@
 module Logos.Main exposing (asSvg)
 
+{-| The langyu logo, a multi-colored tangram depicting a wolf. The main logo for
+`langyu`, used whenever only a single image is appropriate.
+
+@docs asSvg
+
+-}
+
 import Html exposing (Html)
 import Svg exposing (circle, g, polygon, svg)
 import Svg.Attributes
@@ -17,6 +24,9 @@ import Svg.Attributes
         )
 
 
+{-| The langyu logo, a multi-colored tangram depicting a wolf. The main logo for
+`langyu`, used whenever only a single image is appropriate.
+-}
 asSvg : Html Never
 asSvg =
     svg [ viewBox "0 0 2560 2560", version "1.1" ]

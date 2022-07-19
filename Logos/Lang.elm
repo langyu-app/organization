@@ -1,5 +1,12 @@
 module Logos.Lang exposing (asSvg)
 
+{-| The langyu wolf logo, a multi-colored tangram depicting a wolf. Intended for
+use paired with the Yu (Fish) Logo wherever two images are appropriate.
+
+@docs asSvg
+
+-}
+
 import Html exposing (Html)
 import Svg exposing (circle, g, polygon, svg)
 import Svg.Attributes
@@ -17,6 +24,9 @@ import Svg.Attributes
         )
 
 
+{-| The langyu wolf logo, a multi-colored tangram depicting a wolf. Intended for
+use paired with the Yu (Fish) Logo wherever two images are appropriate.
+-}
 asSvg : Html Never
 asSvg =
     svg [ viewBox "0 0 2560 2560", version "1.1" ]
